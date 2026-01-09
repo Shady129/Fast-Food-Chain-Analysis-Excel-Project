@@ -59,4 +59,3 @@ XLOOKUP | SUMIFS | Conditional Formatting | Charts
 ----------------------------------------------------
 Shady Mahmoud
 Aspiring Data Analyst – Excel Data Analysis & Reporting
-████████████████████████████████████████████████████
